@@ -331,6 +331,7 @@
     MENDER_UBI_SETTINGS                                                 \
     MENDER_UNAME_BOOT                                                   \
                                                                         \
+    MENDER_DEFAULT_ALTBOOTCMD						\
     "bootlimit=1\0"                                                     \
     "bootcount=0\0"                                                     \
                                                                         \
